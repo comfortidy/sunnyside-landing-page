@@ -1,0 +1,317 @@
+
+.header{
+    background-color: transparent;
+    margin-bottom: -90px;
+ }
+ .navbar-light .navbar-nav .nav-link{
+   color:  hsl(167, 40%, 24%);
+   font-family: 'Barlow', sans-serif;
+ }
+ .navbar-light .navbar-nav .active>.nav-link{
+   color: hsl(0, 0%, 100%);
+ }
+ .nav-btn{
+   background-color: hsl(51, 100%, 49%);
+   color: black !important;
+   width: 100px;
+   margin: 0 auto;
+ }
+ .jumbotron{
+   background-image: url(./images/mobile/image-header.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   border-radius: 0px;
+   margin: 0px;
+   height: 100vh;
+   width: 100%;
+ }
+ .hero-text{
+   color: white;
+   font-family: 'Fraunces', sans-serif;
+   font-weight: 900;
+   font-size: 40px;
+   text-align: center;
+   line-height: 60px;
+   letter-spacing: 4px;
+   margin-top: 90px;
+ }
+ .section-heading{
+   color:  black;
+   font-family: 'Fraunces', sans-serif;
+   font-weight: 700;
+   font-size: 32px;
+   text-align: center;
+   line-height: 50px;
+   letter-spacing: 1px;
+ }
+ .section-text{
+   color:  black;
+   font-family: 'Barlow', sans-serif;
+   font-weight: 600;
+   font-size: 18px;
+   text-align: center;
+   line-height: 32px;
+   letter-spacing: 1px;
+ }
+ .section-cta{
+   color:  black;
+   font-family: 'Fraunces', sans-serif;
+   font-weight: 600;
+   font-size: 18px;
+   text-align: center;
+   line-height: 32px;
+   letter-spacing: 1px;
+   text-decoration:  underline;
+   text-decoration-color: hsl(51, 100%, 49%);
+   text-decoration-thickness: 4px;
+ }
+ .section-cta{
+   color:  black;
+   font-family: 'Fraunces', sans-serif;
+   font-weight: 600;
+   font-size: 18px;
+   text-align: center;
+   line-height: 32px;
+   letter-spacing: 1px;
+   text-decoration:  underline;
+   text-decoration-color: hsl(7, 99%, 70%);
+   text-decoration-thickness: 4px;
+ }
+ .section-img{
+   background-image: url(./images/mobile/image-transform.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   border-radius: 0px;
+   height: 100vh;
+   width: 100%;
+ }
+ .section-2-img{
+   background-image: url(./images/mobile/image-stand-out.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   border-radius: 0px;
+   height: 100vh;
+   width: 100%;
+ }
+ .section-3-image{
+  background-image: url(./images/mobile/image-graphic-design.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 0px;
+  height: 100vh;
+  width: 100%;
+  float: left;
+  
+  
+ }
+ .section-4-image{
+  background-image: url(./images/mobile/image-photography.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 0px;
+  height: 100vh;
+  width: 100%;
+  margin-top: -48px;
+  display: flexbox;
+  
+ }
+ 
+ .section-title{
+position: absolute;
+bottom: 0px;
+left:0px;
+text-align: center;
+padding-bottom: 220px;
+ }
+
+ .bottom-align-text{
+position: absolute;
+bottom: 0px;
+text-align: center;
+padding-bottom: 20px;
+padding-right: 50px;
+
+ }
+ 
+
+
+ .container-fluid{
+  padding: 0px;
+ }
+ .section-5-image{
+  background-image: url(./images/image-emily.jpg);
+  height: 100vh;
+  width: 400%;
+  background-repeat: no-repeat;
+  align-items: center;
+  border-radius: 50px;
+  padding: 1px;
+ }
+ .clients{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+
+
+ }
+ .clients .client{
+  display: flex;
+  flex-direction: column;
+  margin: 0px 50px 50px;
+  
+ }
+ .client-image{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  overflow: hidden;
+  
+ }
+ .details{
+  font-size: 12px;
+ }
+ .client-image img{
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+  margin-top: 100px;
+
+ }
+
+ .col{
+  float: left;
+  padding: 0px ;
+ /* width: 100%;*/
+
+ }
+ 
+ .cone{
+  width: 100%;
+  height: 100vh;
+  w-100
+ }
+.col-md-3{
+  padding: 0px;
+}
+  
+ 
+  
+ 
+ .title{
+  font-weight: 18px;
+  font-family: 'Fraunces', serif;
+  font-size: 18px;
+  letter-spacing: 5px;
+color: rgb(42, 40, 40);
+ }
+ .testimonials{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  
+ }
+ 
+  
+
+  
+ 
+
+ .footer{
+  text-align: center;
+  padding: 0px;
+ }
+ 
+ 
+
+ .words{
+  margin-top: 50px;
+ }
+ .footer{
+  background-color:  hsl(168, 36%, 65%);
+  padding: 90px;
+  margin-top: 5px;
+ }
+ .socials{
+  text-align: center;
+  margin-top: 100px;
+ }
+ .icons{
+  padding: 20px;
+ }
+
+ .logo{
+  color: (167, 40%, 24%);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ }
+
+ .abt{
+  padding: 25px;
+  color: hsl(167, 40%, 24%);
+ }
+ 
+ @media(min-width: 767px){
+     header{
+       background-color: transparent;
+       margin-bottom: -70px;
+   }
+   .jumbotron{
+     background-image: url(./images/desktop/image-header.jpg);
+   }
+   .hero-text{
+     margin-top: 40px;
+   }
+ 
+ .section-heading{
+   text-align: left;
+ }
+ .section-text{
+   text-align: left;
+ }
+ .section-cta{
+   text-align: left;
+ 
+ }
+ .section-2-img{
+   background-image: url(./images/desktop/image-transform.jpg);
+ }
+ .section-2-img{
+   background-image: url(./images/desktop/image-stand-out.jpg);
+ }
+ .col-md-3{
+  padding: 0;
+ }
+ 
+ .section-title{
+  position: absolute;
+  bottom: 150px;
+  text-align: center;
+  margin-right: 50px;
+  font-family: 'Fraunces', serif;
+ /* padding-left: 380px;*/
+  height: 200px;}
+ }
+ .section-title{
+  position: absolute;
+  bottom: 0px;
+  left:150px;
+  text-align: center;
+   }
+  
+   .bottom-align-text{
+  position: absolute;
+  bottom: 0px;
+  left: 150px;
+padding-bottom: 25px;
+  font-weight: 600;
+   }
+   
+.footer{
+  margin-top: 0;
+}
+  
